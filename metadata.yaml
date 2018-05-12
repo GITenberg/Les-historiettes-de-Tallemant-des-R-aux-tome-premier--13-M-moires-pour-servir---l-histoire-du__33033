@@ -1,0 +1,62 @@
+_repo: Les-historiettes-de-Tallemant-des-R-aux-tome-premier--13-M-moires-pour-servir---l-histoire-du__33033
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tallemant des Réaux
+    aliases:
+    - Des Réaux, Tallemant
+    - Réaux, Gédéon Tallemant des
+    - Reaux, Gedeon Tallemant des
+    - Réaux, Tallemant des
+    birthdate: 1619
+    deathdate: 1690
+    gutenberg_agent_id: '36174'
+    url: http://www.gutenberg.org/2009/agents/36174
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/G%C3%A9d%C3%A9on_Tallemant_des_R%C3%A9aux
+    - http://en.wikipedia.org/wiki/G%C3%A9d%C3%A9on_Tallemant_des_R%C3%A9aux
+  editors:
+  - agent_name: Monmerqué, L.-J.-N. (Louis-Jean-Nicolas)
+    aliases:
+    - Monmerqué, Louis-Jean-Nicolas
+    - Monmerque, L.-J.-N. (Louis-Jean-Nicolas)
+    birthdate: 1780
+    deathdate: 1860
+    gutenberg_agent_id: '39955'
+    url: http://www.gutenberg.org/2009/agents/39955
+  - agent_name: Chateaugiron, H. de (René-Charles-Hippolyte Le Prestre de Lézonnet),
+      marquis de
+    aliases:
+    - Chateaugiron, Hippolyte de
+    - Chateaugiron, H. de (Rene-Charles-Hippolyte Le Prestre de Lezonnet), marquis
+      de
+    birthdate: 1774
+    deathdate: 1848
+    gutenberg_agent_id: '39956'
+    url: http://www.gutenberg.org/2009/agents/39956
+  - agent_name: Taschereau, Jules-Antoine
+    birthdate: 1801
+    deathdate: 1874
+    gutenberg_agent_id: '39957'
+    url: http://www.gutenberg.org/2009/agents/39957
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2010-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33033'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Biography'
+- !lcsh 'France -- History -- Louis XIII, 1610-1643'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715'
+title: "Les historiettes de Tallemant des Réaux, tome premier\r\nMémoires pour servir\
+  \ à l'histoire du XVIIe siècle"
+url: http://www.gutenberg.org/ebooks/33033
